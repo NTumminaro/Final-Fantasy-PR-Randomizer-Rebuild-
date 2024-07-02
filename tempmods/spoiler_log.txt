@@ -1,0 +1,12 @@
+Location 2 -> Key Item 14
+Location 3 -> Key Item 17
+Location 4 -> Key Item 15
+Location 6 -> Key Item 48
+Location 8 -> Key Item 12
+Location 11 -> Key Item 33
+Location 24 -> Key Item 29
+Location 23 -> Key Item 47
+Location 25 -> Key Item 13
+Location 15 -> Key Item 19
+Location 21 -> Key Item 5
+Location 22 -> Key Item 10
